@@ -1,0 +1,2 @@
+hostname = *.hundun.cn
+^https?:\/\/(course|user)\.hundun\.cn\/.+ url script-response-body https://raw.githubusercontents.com/fragilec/chuchu/main/hun/file
