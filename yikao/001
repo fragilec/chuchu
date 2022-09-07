@@ -1,0 +1,2 @@
+hostname = api.yikaobang.com.cn
+^https?:\/\/api\.yikaobang\.com\.cn\/(index.php|user)\/\w+\/\w+ url script-response-body https://raw.githubusercontents.com/fragilec/chu/main/yiko/2205
