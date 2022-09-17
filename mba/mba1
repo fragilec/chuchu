@@ -1,0 +1,2 @@
+hostname = api.mbadashi.com
+^https?:\/\/api\.mbadashi\.com\/app\/v1\/course\/.+ url script-response-body https://raw.githubusercontents.com/fragilec/chuchu/main/mba/file
