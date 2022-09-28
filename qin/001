@@ -1,0 +1,2 @@
+hostname = sdk.yunduoketang.com
+^https?:\/\/sdk\.yunduoketang\.com\/appApi\/\w+\/\w+ url script-response-body https://raw.githubusercontents.com/fragilec/chu/main/qinqin/2205
