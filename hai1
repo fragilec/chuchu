@@ -1,0 +1,2 @@
+hostname = ssl.haimianmba.com
+^https?:\/\/ssl\.haimianmba\.com\/svr\/app\/(\?meth=video.getOtherCard1&user=*|\?meth=video.getTopic7&user=*) url script-response-body https://raw.githubusercontents.com/fragilec/chuchu/main/hai/file
