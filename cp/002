@@ -1,2 +1,0 @@
-hostname = ca.completeanatomy.cn
-^https?:\/\/ca\.completeanatomy\.cn\/api\/v\d+\/users\/info\/ url script-response-body https://raw.githubusercontents.com/fragilec/chuchu/main/cp/file1
