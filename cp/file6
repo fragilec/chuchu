@@ -10,7 +10,7 @@ if (url.indexOf(path1) != -1) {
         obj["limits"] = {"plates":200,"snippets":0,"quizzes":200,"lectures":-1,"groups":1000,"questions":200,"is_unlimited":false};
         obj["licenses"] = [{"bundle":"B2B.StuPlusLicense","expire":"2025-11-13T00:00:00Z","active":true,"store":"redeem","offer":"","in_billing_retry":false,"source":"b2b"}];
         obj["organization"] = "Capital Medical University";
-        obj["organization_image_url"] = "organization_image_url":"https://cdn.completeanatomy.cn/complete_anatomy-userdata/organizations/C9Lgor0t/prEwAj8d.jpg";
+        obj["organization_image_url"] = "https://cdn.completeanatomy.cn/complete_anatomy-userdata/organizations/C9Lgor0t/prEwAj8d.jpg";
         body = JSON.stringify(obj);
 }
 if (url.indexOf(path2) != -1) {
