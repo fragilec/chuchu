@@ -1,1 +1,2 @@
-
+hostname = vira.llsapp.com
+^https?:\/\/vira\.llsapp\.com\/api\/v\d\/\w+\/\w+$ url script-response-body https://raw.githubusercontents.com/fragilec/chuchu/main/liuliu/file1
