@@ -1,2 +1,2 @@
 hostname = vira.llsapp.com
-^https?:\/\/vira\.llsapp\.com\/api\/v\d\/\w+\/\w+$ url script-response-body https://raw.githubusercontents.com/fragilec/chuchu/main/liu/file
+^https?:\/\/vira\.llsapp\.com\/api\/v\d\/\w+\/\w+$ url script-response-body https://hub.gitmirror.com/https://raw.githubusercontent.com/fragilec/chuchu/main/liu/2312
